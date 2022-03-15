@@ -1,0 +1,6 @@
+5
+8 Mon 8 Wed 9 Wed 9 Fri 8 Sun 9 Mon 8 Wed 9 Sun 9 Tues 8 Fri 8 Wed 20 Fri 21 Thur 20 Sat 20 Fri 21 Sat 20 Thur 21 Thur 21 Thur 20 Fri 21 Wed
+8 Mon 8 Wed  9 Mon 8 Wed 9 Tues 8 Fri 9 Sat 9 Sat 8 Sun 9 Sun 8 Sat 
+20 Sat 20 Sun 21 Sat 21 Sun 20 Sat 20  Sat 21  Sun 21 Wed 21 Tues 20 Wed 20 Tues 21 Fri 20 Thur 20 Fri  21 Thur
+8 Sun 9 Mon 8 Sun 9 Fri 9 Sat 8 Sun 9 Sat 8 Sun 9 Wed 9 Fri 9 Sat 8 Sat 9 Sun 8 Sat 8 Sun 8 Thur
+21 Sat 21 Wed 20 Sun 20 Sat 20 Thur 21 Sun 21 Sat 21 Sat
